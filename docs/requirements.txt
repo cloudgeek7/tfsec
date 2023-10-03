@@ -2,3 +2,5 @@ mike
 mkdocs-macros-plugin
 mkdocs-include-markdown-plugin
 mkdocs-material
+mkdocs>=1.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
